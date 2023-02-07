@@ -10,5 +10,7 @@ public class MybatisPlusApplication {
         SpringApplication.run(MybatisPlusApplication.class, args);
 
         int a=10;
+
+        int b=20;
     }
 }
