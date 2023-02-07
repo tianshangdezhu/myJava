@@ -10,5 +10,7 @@ public class MybatisPlusApplication {
         SpringApplication.run(MybatisPlusApplication.class, args);
 
         int cc = 20;
+
+        String name = "zhangsan";
     }
 }
