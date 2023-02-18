@@ -1,4 +1,4 @@
-package com.sff;
+package com.atguigu.mybatisplus;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,5 @@ public class MybatisPlusApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MybatisPlusApplication.class, args);
-        
-        int a = 22;
     }
 }
